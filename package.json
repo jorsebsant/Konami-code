@@ -1,0 +1,17 @@
+{
+  "name": "konami-code",
+  "version": "1.0.0",
+  "description": "Js Library for konami code easter egg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "konami",
+    "code",
+    "easter",
+    "egg"
+  ],
+  "author": "Jorge Santamaria",
+  "license": "ISC"
+}

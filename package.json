@@ -1,6 +1,6 @@
 {
   "name": "js-konami-code",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Js Library for konami code easter egg",
   "main": "lib/index.js",
   "scripts": {
